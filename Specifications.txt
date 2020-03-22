@@ -1,0 +1,2 @@
+Proiecteaza arhitectura (back-end) unei lumi extraordinare, ce contine clanuri de creaturi supranaturale.
+In cadrul tinutului The Lord Of Java, exista mai multe specii de creaturi, care traiesc grupate pe specie, in asa-numitele hoarde.
